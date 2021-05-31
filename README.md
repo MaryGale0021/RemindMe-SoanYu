@@ -1,2 +1,4 @@
 # RemindMe-SoanYu
-Rem!nd Me is a planner type program that allows students to identify and systematically organise the tasks they will be needing to accomplish in a period of time.
+Rem!nd Me is a planner type program that allows students to identify and systematically organise the tasks they will be needing to accomplish in a period of time.  As a college student, it is a good practise to always plan ahead and manage one’s time wisely. Though as an engineering student, it can be challenging and difficult to balance academic, extra-curricular activities, self-care and even personal matters altogether. Especially during this time of a pandemic, students are limited in the comfort of their own homes; thus being prone to numerous distractions and laziness. Planning at first may be overwhelming and seem unreliable, but putting this into good practise daily will definitely help in creating a structure and a setup that can be easily followed in the long-run.
+
+
